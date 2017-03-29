@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.appHeader {
+  background-color: steelblue;
+  height: 7em;
+  padding: 1em;
+  color: white;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+.card {
+  background-color: rgb(252, 252, 255);
+  width: 20em;
+  padding:10px;
+  margin:10px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+.card-img-top { 
+}
